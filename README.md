@@ -52,7 +52,7 @@ Below are some screenshots of the sales reports and dashboards created for this 
 To get started with this project, clone this repository and open the provided Excel files to explore the reports and analysis.
 
 ```bash
-git clone https://github.com/your-username/sales-analytics-fmcg.git
+git clone https://github.com/your-username/sales-report-in-Excel.git
 ```
 
 ## Contributing
