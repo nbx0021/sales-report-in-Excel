@@ -43,7 +43,7 @@ The goal of this project is to equip businesses with the tools and insights nece
 
 Below are some screenshots of the sales reports and dashboards created for this project:
 
-![Sales Report Overview](path/to/your/sales_report_overview.png)
+![EXCEL_YQeTI5dGxL](https://github.com/user-attachments/assets/a5d9ef3f-d675-490f-aa14-b0de8eb500a6)
 ![Detailed Sales Analysis](path/to/your/detailed_sales_analysis.png)
 
 *Replace `path/to/your/` with the actual path to your images.*
